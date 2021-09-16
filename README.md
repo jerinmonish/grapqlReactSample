@@ -1,2 +1,1 @@
 # grapqlReactSample
-grapqlReactSample
